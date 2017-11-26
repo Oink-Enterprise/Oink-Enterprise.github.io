@@ -1,0 +1,55 @@
+/* OinkentErprise Website */
+/* Autor Christian Carrard */
+
+body
+{ 	width: 960px;
+	margin: 0 auto;
+	background-color: #DFAFE1;
+}
+
+
+
+
+img
+{
+	display: block;
+	border: solid pink;
+	max-width: 90%;
+	margin: 100px 230px;
+}
+	
+	
+.button
+{
+	margin: 50px auto;
+	width: 150px;
+	height: 150px;
+	border-radius: 10px;
+	background-color: Pink;
+	
+}
+	
+.p
+{
+	
+	margin: 50px;
+}
+.button:hover{
+	
+	background-color: #00FFBF;
+	transform: translateY(-20px);
+}
+
+
+
+.button
+{
+	margin: ;
+	background-color: pink;
+	color: black;
+	border-radius: 30px;
+	
+	
+}
+
+
