@@ -15,10 +15,14 @@ img
 	display: block;
 	border: solid pink;
 	max-width: 90%;
-	margin: 100px 230px;
+	margin: 20px 230px;
 }
 	
-	
+.right
+{
+	float: right;
+}
+
 .button
 {
 	margin: 50px auto;
